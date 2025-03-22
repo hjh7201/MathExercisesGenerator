@@ -1,0 +1,3 @@
+﻿  MathExercisesGenerator.cpp
+C:\Users\dilemma\source\repos\MathExercisesGenerator\MathExercisesGenerator\MathExercisesGenerator.cpp(87,20): warning C4101: “ansNum”: 未引用的局部变量
+  MathExercisesGenerator.vcxproj -> C:\Users\dilemma\source\repos\MathExercisesGenerator\MathExercisesGenerator\x64\Debug\MathExercisesGenerator.exe
